@@ -6,20 +6,17 @@ After downloading and/or unpacking, you can start index.html
 
 This test site is checking the following;
 
-1. RSS feeds
-    1. Check if allFeeds is defined and not empty,
-    2. Check if allFeeds have an URL,
-    3. Check if allFeeds have a name.
+#RSS feeds
+- are defined, a URL is there and check for filled Name field.
 
-2. Menu
-    1. Menu should be hidden by default,
-    2. Check if menu visibility changes with mouse_over,
+#Menu
+- hamburger menu is closed by default when entering page.
 
-3. Initial entries
-    1. Checking for 1 or more .entry.
+#Initial entries
+- checking for at least a single .entry element within .feed container.
 
-4. News feed selection
-    1. Check if there is a new feed loaded,
+#News feed selection
+- and finally, the new feed should be loaded.
     
 
 
