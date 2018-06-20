@@ -1,8 +1,11 @@
-## Opening the test site.
+## Feedreader Testing Project
+
+Opening and starting this project can be done by doing the following;
 
 Clone / download and unzip the repo from GitHUB.
 After downloading and/or unpacking, you can start index.html
- Unpacking can be done by using the built-in unpack from your OS or a seperate program like *rar or *zip.
+
+Unpacking can be done by using the built-in unpack from your OS or a seperate program like *rar or *zip.
 
 This test site is checking the following;
 
